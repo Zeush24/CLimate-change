@@ -1,0 +1,16 @@
+
+/* The code on lines 3-7 makes the background of the header black and the text of the title of the webpage white. Change this to match what you want for your website! */
+header {
+    background-color: black;
+    color: white;
+    padding: 128px 16px;
+    background-image: url("https://www.itu.int/en/mediacentre/backgrounders/PublishingImages/climate-change-backgrounder.jpg");
+}
+h1{
+    text-align: center;}
+
+h2{  border: 5px dotted black;
+        border-radius:90px;
+   
+}
+
